@@ -16,7 +16,7 @@ export default function Home() {
         <br />
         記錄生活、閱讀與日常片刻。
       </p>
-      <Link to="/posts">
+      <Link to="/PostList">
         <Button className="rounded-2xl shadow-md">開始閱讀</Button>
       </Link>
     </motion.div>
