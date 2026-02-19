@@ -1,3 +1,5 @@
+import { motion } from "framer-motion"
+
 export default function PostDetail() {
   const { id } = useParams();
   const post = posts.find((p) => p.id === id);
