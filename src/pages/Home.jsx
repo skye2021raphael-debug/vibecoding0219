@@ -1,4 +1,4 @@
-console.log("NEW VERSION 0219")
+console.log("NEW VERSION 2 0219")
 import { motion } from "framer-motion"
 import { Link } from "react-router-dom"
 import Button from "../components/Button"
