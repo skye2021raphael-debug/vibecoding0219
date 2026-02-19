@@ -1,5 +1,9 @@
 import { HashRouter, Routes, Route } from "react-router-dom"
 
+import Home from "./pages/Home"
+import PostList from "./pages/PostList"
+import PostDetail from "./pages/PostDetail"
+
 export default function App() {
   return (
     <HashRouter>
