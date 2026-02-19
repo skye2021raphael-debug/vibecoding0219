@@ -2,6 +2,7 @@
   "name": "vibecoding0219",
   "private": true,
   "version": "0.0.0",
+  "type": "module",
   "homepage": "https://skye2021raphael-debug.github.io/vibecoding0219",
   "scripts": {
     "dev": "vite",
@@ -15,6 +16,7 @@
     "react-router-dom": "^6.22.0"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.4",
     "gh-pages": "^6.3.0",
     "vite": "^5.0.0"
   }
