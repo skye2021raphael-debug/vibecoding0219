@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Noto Serif TC", serif;
+  background-color: #F8F5F0;
+  color: #444;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: #C08497;
+}

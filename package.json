@@ -1,0 +1,21 @@
+{
+  "name": "vibecoding0219",
+  "private": true,
+  "version": "0.0.0",
+  "homepage": "https://skye2021raphael-debug.github.io/vibecoding0219",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "gh-pages -d dist",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "gh-pages": "^6.1.1"
+  }
+}
