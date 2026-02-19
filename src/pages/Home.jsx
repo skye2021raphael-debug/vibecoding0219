@@ -1,4 +1,4 @@
-console.log("NEW VERSION 2 0219")
+console.log("NEW VERSION 3 0219")
 import { motion } from "framer-motion"
 import { Link } from "react-router-dom"
 import Button from "../components/Button"
@@ -16,7 +16,7 @@ export default function Home() {
         <br />
         記錄生活、閱讀與日常片刻。
       </p>
-      <Link to="./PostList">
+      <Link to="/PostList">
         <Button className="rounded-2xl shadow-md">開始閱讀</Button>
       </Link>
     </motion.div>
