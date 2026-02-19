@@ -1,5 +1,6 @@
 import { motion } from "framer-motion"
 import { Link } from "react-router-dom"
+import Button from "../components/Button"
 export default function Home() {
   return (
     <motion.div
